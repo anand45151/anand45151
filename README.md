@@ -2,7 +2,6 @@
 <h3 align="center">A passionate Android developer from India</h3>
 
 
-- 🌱 I’m love to solve **Data Structures and Algorithms**
 -  💡 Passionate about solving complex Data Structures and Algorithms.
 -  🌟 Dedicated to contributing to open source projects and giving back to the community.
 -  🤝 Looking for collaborative opportunities to tackle exciting coding challenges
