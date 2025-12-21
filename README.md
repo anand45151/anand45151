@@ -40,11 +40,11 @@ Passionate **Android Developer** from India 🇮🇳, crafting innovative mobile
 
 <div align="center">
   
-![Anand's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anandyadav&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2E9EF7&icon_color=2E9EF7&text_color=FFFFFF)
+![Anand's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anand45151&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2E9EF7&icon_color=2E9EF7&text_color=FFFFFF)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anandyadav&theme=tokyonight&hide_border=true&background=0D1117&ring=2E9EF7&fire=FF6B6B&currStreakLabel=2E9EF7)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anand45151&theme=tokyonight&hide_border=true&background=0D1117&ring=2E9EF7&fire=FF6B6B&currStreakLabel=2E9EF7)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anandyadav&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2E9EF7&text_color=FFFFFF)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anand45151&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2E9EF7&text_color=FFFFFF)
 
 </div>
 
@@ -52,13 +52,13 @@ Passionate **Android Developer** from India 🇮🇳, crafting innovative mobile
 
 <div align="center">
   
-![Trophies](https://github-profile-trophy.vercel.app/?username=anandyadav&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)
+![Trophies](https://github-profile-trophy.vercel.app/?username=anand45151&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)
 
 </div>
 
 ## 📈 Contribution Graph
 
-[![Anand's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=anandyadav&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=2E9EF7&line=2E9EF7&point=FFFFFF)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Anand's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=anand45151&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=2E9EF7&line=2E9EF7&point=FFFFFF)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## 💻 LeetCode Stats
 
@@ -92,7 +92,7 @@ Passionate **Android Developer** from India 🇮🇳, crafting innovative mobile
 
 <div align="center">
   
-![Profile Views](https://komarev.com/ghpvc/?username=anandyadav&color=2E9EF7&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=anand45151&color=2E9EF7&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
