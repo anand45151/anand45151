@@ -1,24 +1,107 @@
-<h1 align="center">Hi 👋, I'm Anand Yadav</h1>
-<h3 align="center">A passionate Android developer from India</h3>
+# Hi there, I'm Anand Yadav 👋
 
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&random=false&width=600&lines=Android+Developer+%F0%9F%93%B1;DSA+Enthusiast+%F0%9F%92%A1;Open+Source+Contributor+%F0%9F%8C%9F;Problem+Solver+%F0%9F%9A%80)](https://git.io/typing-svg)
 
--  💡 Passionate about solving complex Data Structures and Algorithms.
--  🌟 Dedicated to contributing to open source projects and giving back to the community.
--  🤝 Looking for collaborative opportunities to tackle exciting coding challenges
--  📚 Lifelong learner, constantly honing my coding skills.
--  🚀 Let's code together and make a difference in the world of software development!
-<h3 align="left">Connect with me:</h3>
-<img align="right" alt="coding width="400" src="https://miro.medium.com/v2/resize:fit:828/1*zVnWJtyGOX_kUIDm6ccCfQ.gif"/>
+</div>
 
-<p align="left">
-<a href="https://linkedin.com/in/anand yadav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anand yadav" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/anand_0212/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anand_0212/" height="30" width="40" /></a>
-</p>
+## 🚀 About Me
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+Passionate **Android Developer** from India 🇮🇳, crafting innovative mobile experiences and solving complex algorithmic challenges.
 
-<p><img align="left bottom" src="https://github-readme-stats.vercel.app/api/top-langs?username=anand45151&show_icons=true&locale=en&layout=compact" alt="anand45151" /></p>
+- 💡 Deep diving into **Data Structures & Algorithms**
+- 🌟 Active **Open Source** contributor
+- 🤝 Open to **collaborations** on exciting projects
+- 📚 Continuous learner and tech enthusiast
+- 🎯 Building scalable and user-centric Android applications
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=anand45151&show_icons=true&locale=en" alt="anand45151" /></p>
+## 🛠️ Tech Stack
 
+### Languages
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### Android Development
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
+![Material Design](https://img.shields.io/badge/Material%20Design-757575?style=for-the-badge&logo=materialdesign&logoColor=white)
+![XML](https://img.shields.io/badge/XML-FF6C00?style=for-the-badge&logo=xml&logoColor=white)
+
+### Tools & Technologies
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
+
+## 📊 GitHub Stats
+
+<div align="center">
+  
+![Anand's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anandyadav&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2E9EF7&icon_color=2E9EF7&text_color=FFFFFF)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anandyadav&theme=tokyonight&hide_border=true&background=0D1117&ring=2E9EF7&fire=FF6B6B&currStreakLabel=2E9EF7)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anandyadav&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2E9EF7&text_color=FFFFFF)
+
+</div>
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  
+![Trophies](https://github-profile-trophy.vercel.app/?username=anandyadav&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)
+
+</div>
+
+## 📈 Contribution Graph
+
+[![Anand's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=anandyadav&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=2E9EF7&line=2E9EF7&point=FFFFFF)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+## 💻 LeetCode Stats
+
+<div align="center">
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/anandyadav?theme=dark&font=Noto%20Sans&ext=heatmap)
+
+</div>
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anandyadav)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/anandyadav)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/anandyadav)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anandyadav)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
+
+</div>
+
+## 💭 Random Dev Quote
+
+<div align="center">
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
+
+## 👀 Profile Views
+
+<div align="center">
+  
+![Profile Views](https://komarev.com/ghpvc/?username=anandyadav&color=2E9EF7&style=for-the-badge&label=PROFILE+VIEWS)
+
+</div>
+
+---
+
+<div align="center">
+  
+### ⚡ "Code is like humor. When you have to explain it, it's bad." – Cory House
+
+**Let's build something amazing together! 🚀**
+
+</div>
