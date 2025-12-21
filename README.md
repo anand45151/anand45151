@@ -23,6 +23,8 @@ Passionate **Android Developer** from India 🇮🇳, crafting innovative mobile
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 
 ### Android Development
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
@@ -35,6 +37,13 @@ Passionate **Android Developer** from India 🇮🇳, crafting innovative mobile
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
 ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
+
+### Blockchain & Web3
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
+![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
+![Smart Contracts](https://img.shields.io/badge/Smart%20Contracts-2E7D32?style=for-the-badge&logo=blockchain&logoColor=white)
+![Hardhat](https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logo=hardhat&logoColor=black)
+![MetaMask](https://img.shields.io/badge/MetaMask-F6851B?style=for-the-badge&logo=metamask&logoColor=white)
 
 ## 📊 GitHub Stats
 
@@ -64,7 +73,7 @@ Passionate **Android Developer** from India 🇮🇳, crafting innovative mobile
 
 <div align="center">
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/anandyadav?theme=dark&font=Noto%20Sans&ext=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/anand_0212?theme=dark&font=Noto%20Sans&ext=heatmap)
 
 </div>
 
