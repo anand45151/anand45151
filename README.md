@@ -75,19 +75,19 @@ Android developer from India. I write most of my code in Kotlin with Jetpack Com
 <br/>
 
 <!-- ═══════════════════════════════ FEATURED WORK ═══════════════════════════════ -->
-<h2 align="center">Featured Work</h2>
+<!-- <h2 align="center">Featured Work</h2>
 
 <!-- Replace REPO_NAME_1 and REPO_NAME_2 with your actual repository names. Add more pins by copying a block. -->
-<div align="center">
+<!-- <div align="center"> -->
   <a href="https://github.com/anand45151/REPO_NAME_1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=anand45151&repo=REPO_NAME_1&hide_border=true&bg_color=0D1117&title_color=3DDC84&icon_color=3DDC84&text_color=c9d1d9" alt="Featured repo 1" />
-  </a>
+    <!-- <img src="https://github-readme-stats.vercel.app/api/pin/?username=anand45151&repo=REPO_NAME_1&hide_border=true&bg_color=0D1117&title_color=3DDC84&icon_color=3DDC84&text_color=c9d1d9" alt="Featured repo 1" /> -->
+  <!-- </a>
   <a href="https://github.com/anand45151/REPO_NAME_2">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=anand45151&repo=REPO_NAME_2&hide_border=true&bg_color=0D1117&title_color=3DDC84&icon_color=3DDC84&text_color=c9d1d9" alt="Featured repo 2" />
-  </a>
-</div>
+  </a> -->
+<!-- </div> -->
 
-<br/>
+<br/> -->
 
 <!-- ═══════════════════════════════ STATS ═══════════════════════════════ -->
 <h2 align="center">GitHub Stats</h2>
